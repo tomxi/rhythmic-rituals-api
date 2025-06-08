@@ -1,0 +1,17 @@
+{
+  "name": "rhythmic-rituals-api",
+  "version": "1.0.0",
+  "description": "Serverless API for Rhythmic Rituals to interact with Notion.",
+  "main": "api/notes.js",
+  "scripts": {
+    "start": "node api/notes.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "author": "",
+  "license": "ISC"
+}
