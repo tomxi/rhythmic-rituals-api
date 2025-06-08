@@ -1,7 +1,7 @@
 const { Client } = require("@notionhq/client");
 
 // Replace with your GitHub username
-const GITHUB_USERNAME = "YOUR-GITHUB-USERNAME-PLACEHOLDER"; // Placeholder
+const GITHUB_USERNAME = "tomxi"; // Placeholder
 const ALLOWED_ORIGIN = `https://${GITHUB_USERNAME}.github.io`;
 
 // Initialize Notion client
